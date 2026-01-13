@@ -1,3 +1,5 @@
+![CI](https://github.com/jacobalcu/RoutePlanner/actions/workflows/ci.yml/badge.svg)
+
 ### Hi there 👋
 
 <!--
