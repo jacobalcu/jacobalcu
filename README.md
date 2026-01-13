@@ -1,4 +1,4 @@
-![CI](https://github.com/jacobalcu/RoutePlanner/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/jacobalcu/jacobalcu/actions/workflows/ci.yml/badge.svg)
 
 ### Hi there 👋
 
