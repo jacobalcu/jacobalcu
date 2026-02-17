@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 🧰 Languages and Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 <!--
 [![jacobalcu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobalcu)](https://github.com/jacobalcu/github-readme-stats)
