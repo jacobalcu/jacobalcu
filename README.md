@@ -5,6 +5,13 @@ I am a **CS Graduate (Clemson)** and current **UIUC MCS student** transitioning 
 
 ---
 
+### 🌐 Live Computer Vision Demos
+I've deployed these web applications to showcase real-time image classification:
+* **[CIFAR-10 Classifier](https://jacobcifar10.streamlit.app/)** – A Streamlit/PyTorch app classifying 10 categories of images.
+* **[CIFAR-100 Classifier](https://cifar100ja.streamlit.app/)** – An expanded model capable of identifying 100 different object classes.
+
+---
+
 ### 🧰 Tech Stack & Tools
 
 **Languages & Data Science**
@@ -26,7 +33,7 @@ I am a **CS Graduate (Clemson)** and current **UIUC MCS student** transitioning 
 | :--- | :--- |
 | ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jacobalcu&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacobalcu&layout=compact&theme=radical) |
 
-**Current Streak**
+**Current Streak**  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacobalcu&theme=radical)
 
 ---
