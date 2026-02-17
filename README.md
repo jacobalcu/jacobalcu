@@ -24,7 +24,7 @@ I am a **CS Graduate (Clemson)** and current **UIUC MCS student** transitioning 
 
 | My Stats | Top Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=jacobalcu&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobalcu&layout=compact&theme=radical) |
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jacobalcu&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacobalcu&layout=compact&theme=radical) |
 
 **Current Streak**
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacobalcu&theme=radical)
