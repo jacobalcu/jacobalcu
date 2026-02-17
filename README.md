@@ -1,3 +1,48 @@
+# Hi there, I'm Jacob! 👋
+
+### 🚀 From Roofing to Machine Learning
+I am a **CS Graduate (Clemson)** and current **UIUC MCS student** transitioning from a career in roofing to Data Science and ML Engineering. I enjoy building everything from deep learning models to custom hardware.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+**Languages & Data Science**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**Web & Hardware**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+
+| My Stats | Top Languages |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=jacobalcu&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobalcu&layout=compact&theme=radical) |
+
+**Current Streak**
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacobalcu&theme=radical)
+
+---
+
+### 🛠️ Current & Recent Projects
+* **Wearable Snowboarding Tracker:** Building an IoT device with an IMU and GPS for performance metrics.
+* **AD Detection:** Implementing CNN research for automatic Alzheimer's detection.
+* **Full-Stack Inventory System:** Developing a production-level management tool to practice senior engineering principles.
+* **Custom Guitar Pedals:** Designing and soldering DIY analog/digital audio hardware.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-alcumbrack/)
+
+<!--
 ### Hi there 👋
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacobalcu&theme=dark)
 
@@ -10,7 +55,7 @@
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-alcumbrack/)
-
+-->
 <!--
 [![jacobalcu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobalcu)](https://github.com/jacobalcu/github-readme-stats)
 
