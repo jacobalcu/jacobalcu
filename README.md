@@ -1,7 +1,7 @@
 # Hi there, I'm Jacob! 👋
 
 ### 🚀 From Roofing to Machine Learning
-I am a **CS Graduate (Clemson)** and current **UIUC MCS student** transitioning from a career in roofing to Data Science and ML Engineering. I enjoy building everything from deep learning models to custom hardware.
+I am a **CS Graduate (Clemson)** and current **UIUC MCS student** transitioning from a career in roofing to Software Engineering. I enjoy building everything from deep learning models to custom hardware.
 
 ---
 
@@ -12,16 +12,22 @@ I've deployed these web applications to showcase real-time image classification:
 
 ---
 
+### 🌐 Live Software Demos
+* **[Social Media Website](https://www.kairoshistory.com/)** - A Social Media Website built around history articles.
+
+---
+
 ### 🧰 Tech Stack & Tools
 
 **Languages & Data Science**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 **Web & Hardware**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
